@@ -3,7 +3,9 @@ created: 2022-12-25
 updated: 2022-12-25
 ---
 [[Usucha Gomei]] that can be used in January.
-%%source: [茶道の銘｜１月 | 茶道のあれこれ簡単解説](https://mame-sadou.com/sadou-inscription-january)%%
+%%
+- [ ] add from [茶道の銘｜１月 | 茶道のあれこれ簡単解説](https://mame-sadou.com/sadou-inscription-january) #someday
+%%
 
 - Akebono あけぼの
 - Ikuchiyo 幾千代

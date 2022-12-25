@@ -10,7 +10,7 @@ Entries are added and modified continuously. If you wish to suggest changes or p
 ## [[Temae]]
 - [[Usucha]]
 - [[Koicha]]
-- [[Rakubon]]
+- [[Bonryaku]]
 
 ## [[Utensils]]
 
@@ -25,3 +25,4 @@ Entries are added and modified continuously. If you wish to suggest changes or p
 - [[Tea School]]
 - [[Tea Room]]
 - [[Gomei]]
+- [[Web Resources]]
