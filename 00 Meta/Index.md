@@ -1,4 +1,4 @@
-This is a wiki collecting Japanese tea ceremony knowledge and resources. Entries are added continuously. Browse via the lists provided below or the tag view.
+This is a wiki collecting Japanese tea ceremony knowledge and resources. Browse via topics below or tag view in the menu. Entries are added continuously.
 
 *Disclaimer: As the author is practicing in the [[Urasenke]] tradition, this wiki is likely biased in favor of Urasenke.*
 %%

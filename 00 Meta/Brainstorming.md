@@ -1,7 +1,7 @@
 [[Index]]
 
 ## To Do
-- [ ] set up backup with Git
+- [x] set up backup with Git
 - [ ] set up Obsidian html & Github Pages
 	- [ObsidianHtml/Documentation](https://obsidian-html.github.io/General%20Information/About%20ObsidianHtml.html)
 	- [GitHub - spacegiant/obsidian-github-pages-starter: A simple GitHub repo for paring obsidian-html with Github Pages](https://github.com/spacegiant/obsidian-github-pages-starter#readme)
