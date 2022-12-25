@@ -1,0 +1,59 @@
+---
+created: 2022-12-25
+updated: 2022-12-25
+---
+[[Usucha Gomei]] that can be used in January.
+%%source: [茶道の銘｜１月 | 茶道のあれこれ簡単解説](https://mame-sadou.com/sadou-inscription-january)%%
+
+- Akebono あけぼの
+- Ikuchiyo 幾千代
+- Ebisu 恵比寿
+- Oimatsu 老松
+- Okina 翁
+- Kakuju 鶴寿
+- Kakusei 鶴声
+- Kagura 神楽
+- Keiun 慶雲
+- Keiki 佳気
+- Sanbansō 三番叟
+- Shinonome 東雲
+- Juzan 寿山
+- Jushoku 寿色
+- Jurō 寿老
+- Jurōjin 寿老人
+- Shōun 松韻
+- Shōchikubai 松竹梅
+- Shōtō 松濤
+- 松風
+- Shōfuku 祥福
+- 瑞雲
+- Zuichō 瑞兆
+- Suehiro 末広
+- Sennenmidori 千年翠
+- Takarabukuro 宝袋
+- Tamagushi 玉串
+- Tanchō 丹頂
+- Chitose 千歳
+- Chōkyuu 長久
+- Chōseiden 長生殿
+- Chiyo no sakae 千代の栄
+- Tōhōsaku 東方朔
+- Tokiwa 常盤
+- Hatsugasumi 初霞
+- Hatsuwarai 初笑
+- Hamayumi 破魔弓
+- Harukoma 春駒
+- Banzai 万歳
+- Banzairaku 万歳楽
+- Fuuki 富貴
+- Fukuju 福寿
+- Fukujusō 福寿草
+- Fuku no kami 福の神
+- Fukurokuju 福禄寿
+- Furōsen 不老仙
+- Furōmon 不老門
+- Hōrai 蓬莱
+- Hotei 布袋
+- Yuzuriha 楪
+- Wakamizu 若水: first water drawn from a well on New Year's Day
+- Wakamidori 若緑・若翠: young greenery
