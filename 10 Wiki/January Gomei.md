@@ -4,7 +4,7 @@ updated: 2022-12-25
 ---
 [[Usucha Gomei]] that can be used in January.
 %%
-- [ ] add from [茶道の銘｜１月 | 茶道のあれこれ簡単解説](https://mame-sadou.com/sadou-inscription-january) #someday
+- [ ] 説明追加・[茶道の銘｜１月 | 茶道のあれこれ簡単解説](https://mame-sadou.com/sadou-inscription-january) #someday
 %%
 
 - Akebono あけぼの

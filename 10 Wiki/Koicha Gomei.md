@@ -21,5 +21,5 @@ Koicha [[Gomei]] are usually words or sayings connected to zen. Unlike [[Usucha 
 - Michi 道
 
 %%
-- [ ] add gomei explanations #someday
+- [ ] 濃茶ご名・説明追加 #someday
 %%

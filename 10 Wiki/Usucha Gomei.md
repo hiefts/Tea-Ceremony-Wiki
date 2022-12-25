@@ -17,6 +17,6 @@ Usucha [[Gomei]] are usually seasonal, referencing the weather, seasonal plants 
 - [[December Gomei]]
 
 %%
-- [ ] insert rest from [茶道の銘一覧｜１月から１２月まで | 茶道のあれこれ簡単解説](https://mame-sadou.com/sadou-inscription)
-- [ ] insert from UTA Dropbox PDFs
+- [ ] 追加・[茶道の銘一覧｜１月から１２月まで | 茶道のあれこれ簡単解説](https://mame-sadou.com/sadou-inscription)
+- [ ] UTA Dropbox PDF追加
 %%

@@ -6,7 +6,7 @@ Entries are added and modified continuously. If you wish to suggest changes or p
 
 *Disclaimer: As the author practices tea in the [[Urasenke]] tradition, this wiki is likely biased in favor of Urasenke. Procedures, rules and terms described in this wiki can be assumed to apply exclusively to Urasenke unless specified otherwise.*
 %%
-- [ ] add recently changed entries page?
+- [ ] recently changed entries page・追加?
 %%
 
 ## [[Temae]]
