@@ -5,6 +5,7 @@
 - [ ] Obsi HTML & GH Pages・設定 #someday
 	- [ObsidianHtml/Documentation](https://obsidian-html.github.io/General%20Information/About%20ObsidianHtml.html)
 	- [GitHub - spacegiant/obsidian-github-pages-starter: A simple GitHub repo for paring obsidian-html with Github Pages](https://github.com/spacegiant/obsidian-github-pages-starter#readme)
+	- step 5 is not working, seems to be some problem with folder paths?
 
 ## Questions
 - what shows up on static Github Pages website vs. what does not
