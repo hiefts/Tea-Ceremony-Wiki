@@ -1,41 +1,41 @@
 ---
 created: 2022-12-25
-updated: 2022-12-25
+updated: 2023-01-03
 ---
 [[Usucha Gomei]] that can be used in January.
 %%
 - [ ] 説明追加・[茶道の銘｜１月 | 茶道のあれこれ簡単解説](https://mame-sadou.com/sadou-inscription-january) #someday
 %%
 
-- Akebono あけぼの
-- Ikuchiyo 幾千代
-- Ebisu 恵比寿
-- Oimatsu 老松
-- Okina 翁
-- Kakuju 鶴寿
-- Kakusei 鶴声
-- Kagura 神楽
-- Keiun 慶雲
-- Keiki 佳気
-- Sanbansō 三番叟
-- Shinonome 東雲
-- Juzan 寿山
-- Jushoku 寿色
-- Jurō 寿老
-- Jurōjin 寿老人
-- Shōun 松韻
-- Shōchikubai 松竹梅
-- Shōtō 松濤
-- 松風
-- Shōfuku 祥福
-- 瑞雲
-- Zuichō 瑞兆
-- Suehiro 末広
-- Sennenmidori 千年翠
+- Akebono あけぼの: faint dawn or daybreak
+- Ikuchiyo 幾千代: many years, many ages, eternity
+- Ebisu 恵比寿: Ebisu is the God of fishing & commerce
+- Oimatsu 老松: old pine tree
+- Okina 翁: venerable old man
+- Kakuju 鶴寿: crane as symbol of long life, longevity
+- Kakusei 鶴声: voice of the crane, symbol of longevity
+- Kagura 神楽: Kagura dance & song in honor of the kami
+- Keiun 慶雲: clouds as messengers of auspicious happenings
+- Keiki 佳気: happy or auspicious mood
+- Sanbansō 三番叟: 
+- Shinonome 東雲: daybreak, dawn (when east sky starts to lighten)
+- Juzan 寿山: longevity mountain
+- Jushoku 寿色: word from zen saying about longevity of green pines?
+- Jurō 寿老: long-lived old person
+- Jurōjin 寿老人: God of longevity, one of 7 auspicious kami
+- Shōun 松韻: wind blowing through the pine trees
+- Shōchikubai 松竹梅: pine, bamboo & plum (which is seen as auspicious grouping)
+- Shōtō 松濤: sound of wind rustling in pine needles
+- 松風 Shōfuu: sound of wind blowing through pine trees
+- Shōfuku 祥福: happiness, auspicious
+- Zuiun 瑞雲: auspicious clouds
+- Zuichō 瑞兆: auspicious sign, good omen
+- Suehiro 末広: becoming prosperous
+- Sennenmidori 千年翠: 1000 year green, meaning pines
 - Takarabukuro 宝袋
 - Tamagushi 玉串
 - Tanchō 丹頂
-- Chitose 千歳
+- Chitose 千歳: one thousand years
 - Chōkyuu 長久
 - Chōseiden 長生殿
 - Chiyo no sakae 千代の栄
