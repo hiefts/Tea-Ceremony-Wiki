@@ -26,5 +26,5 @@ Not only did they enjoy the wild beauty of the large beams supporting the roof a
 
 ## Suizokuken
 
-Suizokuken is located in Niiza, Saitama Prefecture, and owned by Hirabayashi. %%平林%%
+Suizokuken (睡足軒) is located in Niiza, Saitama Prefecture, and owned by Hirabayashi. %%平林%%
 
