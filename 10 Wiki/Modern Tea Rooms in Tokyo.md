@@ -23,3 +23,8 @@ Not only did they enjoy the wild beauty of the large beams supporting the roof a
 近代の都市化の中で、田舎家の姿は、益田鈍翁や団琢磨といった数寄者たちに好まれた。彼らはこぞって山奥の茅葺きの民家を買い入れ、市中に移築する流行を産み出したのだ。
 
 屋根を支える大梁や囲炉裏の煙で燻された煤竹の野趣を楽しむだけでなく、建具などは繊細な意匠で洗練させて、絶妙なバランスを実現させた。数寄屋造とは「田舎家風の意匠を用いて建てられた座敷の様式名称」とさえ書かれた辞典も出た。%%
+
+## Suizokuken
+
+Suizokuken is located in Niiza, Saitama Prefecture, and owned by Hirabayashi. %%平林%%
+
