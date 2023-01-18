@@ -20,6 +20,8 @@ Entries are added and modified continuously. If you wish to suggest changes or p
 - [[Shōkyaku]]
 - [[Jikyaku]]
 - [[Hantō]]
+- [[Tsumei]]
+- [[Tsugi]]
 
 ## Tea knowledge
 - [[Tea School]]
